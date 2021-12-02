@@ -19,7 +19,7 @@
     <div v-for="product in productsData" :key="product.pID"
     class="relative max-w-sm min-w-[200px] bg-white shadow-md p-2 mx-6 my-3 cursor-pointer">
       <div class="overflow-x-hidden relative">
-        <img class="h-40 object-cover pt-2 px-2" src="https://imgcdn.mckesson.com/CumulusWeb/Images/High_Res/765876.jpg">
+        <img class="h-40 object-cover pt-2 px-2" src="https://protekta.co.za/wp-content/uploads/2020/05/PSG_Disposable_Blue_Nitrile_Gloves_Angle_Front-400x400.jpg">
         
       </div>
       <div class="mt-4 pl-2 mb-2 flex justify-between ">

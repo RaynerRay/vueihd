@@ -22,7 +22,7 @@
           <tr v-for="item in this.$store.state.cart" :key="item.id">
             <td class="hidden pb-4 md:table-cell">
               <a href="#">
-                <img src="https://imgcdn.mckesson.com/CumulusWeb/Images/High_Res/765876.jpg" class="w-20 rounded" alt="Thumbnail">
+                <img src="https://protekta.co.za/wp-content/uploads/2020/05/PSG_Disposable_Blue_Nitrile_Gloves_Angle_Front-400x400.jpg" class="w-20 rounded" alt="Thumbnail">
               </a>
             </td>
             <td>
